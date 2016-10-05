@@ -12,7 +12,7 @@
     <asp:TextBox ID="txtGameScored" runat="server" CssClass="form-control"></asp:TextBox>
 </div>
 <div class="form-group">
-    <asp:Label ID="lblGameAllowed" runat="server"></asp:Label>
+    <asp:Label ID="lblGameAllowed" runat="server">Allowed:</asp:Label>
     <asp:TextBox ID="txtGameAllowed" runat="server" CssClass="form-control"></asp:TextBox>
 </div>
 <div class="form-group">
